@@ -1,11 +1,11 @@
-title: Your name or name of site
+title: Branded
 description: A website with a blog
-header_text: My Dream Blog
-footer_text: Copyright 2020 Your name
+header_text: Branded
+footer_text: Copyright 2020 Isabelle Wendes
 header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
-logo: /uploads/logo.jpg
+bannerheight: 100vh
+logo: ../uploads/branded-final-logo-cropped.png
 favicon: /uploads/favicon.ico
+gridlayout: true
+fixednavbar: true
 upzoom: true
-fixednavbar: false
