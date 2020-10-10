@@ -2,7 +2,8 @@
 layout: post
 title: "BP = Branding Problems "
 date: 2020-10-10T13:07:35.843Z
-comments: true
+header_feature_image: ../uploads/log.jpg
+comments: false
 ---
 does their brand reputation match their typographic choices 
 
