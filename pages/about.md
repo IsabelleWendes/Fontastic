@@ -4,13 +4,13 @@ title: ABOUT
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/white-background.png
+header_feature_image: ../uploads/long-about-header-cropped.png
 published: true
 tags: null
 description: null
 show: true
 ---
-![](../uploads/about-header-that-fits2.png)
+![]()
 
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
 
