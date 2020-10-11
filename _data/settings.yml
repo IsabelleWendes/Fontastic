@@ -2,9 +2,9 @@ title: BRANDED
 description: A website with a blog
 header_text: ""
 footer_text: Copyright 2020 Isabelle Wendes
-header_feature_image: ../uploads/banner-about-page-cr.png
+header_feature_image: ../uploads/branded-final-logo-scaled.png
 bannerheight: 100vh
-logo: ../uploads/branded-final-logo-scaled.png
+logo: ../uploads/favicon-cropped.png
 favicon: ../uploads/favicon-cropped.png
 gridlayout: true
 fixednavbar: true
