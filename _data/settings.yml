@@ -4,8 +4,8 @@ header_text: ""
 footer_text: Copyright 2020 Isabelle Wendes
 header_feature_image: ../uploads/branded-final-logo-scaled.png
 bannerheight: 100vh
-logo: ../uploads/favicon-cropped.png
-favicon: ../uploads/favicon-cropped.png
+logo: ../uploads/favicon-round.png
+favicon: ../uploads/favicon-round.png
 gridlayout: true
 fixednavbar: true
 upzoom: true
