@@ -4,7 +4,7 @@ title: ABOUT
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/long-about-header-cmon-now.png
+header_feature_image: ../uploads/paper-about-cropped.png
 published: true
 tags: null
 description: null
