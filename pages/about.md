@@ -4,7 +4,7 @@ title: ABOUT
 subtitle: ""
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: ../uploads/white-background.png
+header_feature_image: ../uploads/transparent.svg
 published: true
 tags: null
 description: null
