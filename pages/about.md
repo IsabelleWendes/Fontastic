@@ -14,7 +14,7 @@ show: true
 
 On this website, I will be exploring typography in branding. I will be delving under the surface of some globally recognised brands to examine how effectively their typographic choices reflect their reputation and purpose. I will be sharing my thoughts in small articles which you will find on the main page. Please don't hesitate to join the discussion in the comment section below each article!
 
-#### More about this site:
+### More about this site:
 
 #### My Logo and Banner Image:
 
