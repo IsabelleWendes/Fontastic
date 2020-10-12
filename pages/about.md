@@ -20,7 +20,7 @@ On this website, I will be exploring typography in branding. I will be delving u
 
 Within my logo and banner image, I decided to emulate the style and iconography of a traditional branding stamp because of its association with the origins of branding as a concept. 
 
-##### **Fun fact:**
+##### **[Fun fact:](https://www.skyword.com/contentstandard/branding-brief-history/)**
 
 > The term \[branding] derives from the Old Norse word brandr or "to burn", and refers to the practice of branding livestock, which dates back more than 4,000 years.
 
