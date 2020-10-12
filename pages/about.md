@@ -10,14 +10,36 @@ tags: null
 description: null
 show: true
 ---
-``
+# Welcome to BRANDED.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+On this website, I will be exploring typography in branding. I will be delving under the surface of some globally recognised brands to examine how effectively their typographic choices reflect their reputation and purpose. I will be sharing my thoughts in small articles which you will find on the main page. Please don't hesitate to join the discussion in the comment section below each article!
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
+#### More about this site:
 
-This file is saved inside the *pages* folder and is saved as *about.md* . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
+###### My Logo and Banner Image:
 
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+Within my logo and banner image I decided to emulate the style and iconography of a traditional branding stamp becasue of its association with the origins of branding as a concept. 
 
-who you are and why you are and what you are all about.
+**Fun fact:**
+
+> \[The term [branding] derives from the Old Norse word brandr or "to burn", and refers to the practice of branding livestock, which dates back more than 4,000 years."](https://www.skyword.com/contentstandard/branding-brief-history/)
+
+Back in the day, a brand was a symbol of ownership but in today's world, a brand represents a person or organisation's values and reputation. 
+
+![Banner image](../uploads/branded-final-logo-cropped.png "Banner Image")
+
+One of the defining features of a branding stamp is the strong bold lettering which has minimal contrast. This made the typeface Burford Rustic perfect for the task. Additionally, the speckled colouration adds to the appearance of it being stamped. 
+
+###### Choice of Colour:
+
+![Colour Swatch](../uploads/red-colour-swatch.png "Colour Swatch")
+
+\#A30400 - Red 
+
+\#FFFFFF - White 
+
+The rust coloured red almost ages the logo but also stands out against the white background. 
+
+![Logo](../uploads/favicon-cropped.png "Logo")
+
+My logo, which can be located on the far left of the menu bar, is a smaller simplified variation of my banner image. I inverted the colours so that the logo would stand out better as a Favicon on the browser tabs.
