@@ -1,6 +1,6 @@
 ---
 layout: tags
-title: Tags
+title: TAGS
 permalink: /tags/
 icon: fa-tags
 date: 2020-10-12T23:40:04.599Z
