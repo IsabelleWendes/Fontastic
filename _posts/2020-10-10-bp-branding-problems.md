@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "BP = Branding Problems "
+title: "BP = Big Problems "
 date: 2020-10-09T13:07:35.843Z
-header_feature_image: ../uploads/bp-petrol-station.jfif
+header_feature_image: ../uploads/bp-pollution.jpg
 comments: false
 tags:
   - Design
