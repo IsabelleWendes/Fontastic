@@ -16,11 +16,11 @@ On this website, I will be exploring typography in branding. I will be delving u
 
 #### More about this site:
 
-###### My Logo and Banner Image:
+#### My Logo and Banner Image:
 
 Within my logo and banner image, I decided to emulate the style and iconography of a traditional branding stamp because of its association with the origins of branding as a concept. 
 
-**Fun fact:**
+##### **Fun fact:**
 
 > The term \[branding] derives from the Old Norse word brandr or "to burn", and refers to the practice of branding livestock, which dates back more than 4,000 years.
 
@@ -30,7 +30,7 @@ Back in the day, a brand was a symbol of ownership but in today's world, a brand
 
 One of the defining features of a branding stamp is the strong bold lettering which has minimal contrast. This made the typeface Burford Rustic perfect for the task. Additionally, the speckled colouration adds to the appearance of it being stamped. 
 
-###### Choice of Colour:
+#### Choice of Colour:
 
 ![Colour Swatch](../uploads/red-colour-swatch.png "Colour Swatch")
 
