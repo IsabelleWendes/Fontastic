@@ -38,7 +38,13 @@ One of the defining features of a branding stamp is the strong bold lettering wh
 
 \#FFFFFF - White 
 
-The rust coloured red almost ages the logo but also stands out against the white background. 
+Deep red is often used in rustic, country or western style branding as seen with various brands for instance Levi's. 
+
+![Levi's Jeans](../uploads/levi-jeans.jpg "Levi's Jeans")
+
+Therefore, I thought it would be fitting for my branding stamp style logo. I think the rustic look of my logo is a far cry from the sleek and elegant logos that are often associated with modern-day branding. I hope that this makes my website stand out but also adds a friendly and relaxed atmosphere to the platform.
+
+Additionally, the dark red stands out against the white background of the website which aids the legibility of the logo and banner image. 
 
 ![Logo](../uploads/favicon-cropped.png "Logo")
 
