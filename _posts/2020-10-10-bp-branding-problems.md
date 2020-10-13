@@ -2,7 +2,7 @@
 layout: post
 title: "BP = Big Problems "
 date: 2020-10-09T13:07:35.843Z
-header_feature_image: ../uploads/bp-pollution.jpg
+header_feature_image: ../uploads/bp-lorry.jpg
 comments: true
 tags:
   - Design
@@ -32,9 +32,9 @@ The colour green is generally associated with nature or eco-friendly and environ
 
 For example: 
 
-* The BP oil spill in 2010, where 200 million gallons of crude oil poured into the Gulf of Mexico for 87 days, killing 8,000 animals in just 6 months. 
-* BP also lobbied President Trump to weaken landmark environmental laws to make it harder to block new oil and gas projects on an environmental ground. 
-* More recently, in 2019 BP did not back the Eu's plans for a net Zero carbon target by 2050. 
+* [The BP oil spill in 2010, where 200 million gallons of crude oil poured into the Gulf of Mexico for 87 days, killing 8,000 animals in just 6 months. ](https://www.dosomething.org/us/facts/11-facts-about-bp-oil-spill#fn1)
+* [BP also lobbied President Trump to weaken landmark environmental laws to make it harder to block new oil and gas projects on an environmental ground. ](https://unearthed.greenpeace.org/2020/01/23/bp-lobbied-trump-climate-change-oil/)
+* [More recently, in 2019 BP did not back the Eu's plans for a net Zero carbon target by 2050. ](https://www.theguardian.com/environment/2019/jun/20/uks-big-energy-firms-accused-of-failing-to-tackle-climate-crisis)
 
   > "you can't claim to be playing your part in tackling the climate emergency and then refuse to back the legislation we need to succeed," said John Sauven, the executive director of Greenpeace UK. 
 
