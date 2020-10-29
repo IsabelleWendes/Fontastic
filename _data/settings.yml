@@ -13,3 +13,6 @@ items:
   - name: About Me
     siteurl: /aboutme
     tab: false
+  - siteurl: /challemges
+    tab: true
+    name: about me answers
