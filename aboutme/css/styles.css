@@ -1,7 +1,65 @@
-body {
-
+body{
+margin-left: 5%;
+margin-right: 5%;
+justify-content: center;
+font-family: "Source Sans Pro", "Avenir", "Arial", sans-serif;
+font-size: 25px;
 }
 
-h1 {
-  
+h1{
+font-size-adjust: auto;
+font-size: 40px;
+}
+/*blog link*/
+.brandedlogo{
+  width:50%;
+  float: left;
+  margin: 0px;
+}
+
+/*picture of me*/
+.picofme{
+  Height:35%;
+  width: 35%;
+ float: left;
+  padding-right: 5%;
+}
+
+/*intersts*/
+.interests{
+  padding-bottom: 10px;
+}
+
+/*email link*/
+.email{
+  background-color: #3d3d3d;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+  color:white;
+}
+
+/*hyperlinks*/
+.hyperlink{
+	color: #A30400;
+	text-decoration: none;
+}
+.hyperlink:hover {
+	color: black;
+	text-decoration: none;
+}
+
+/*social media icons*/
+.socialmedia {
+	margin: 5px;
+  text-align: center;
+}
+
+.socialmedia img {
+	width: 30px;
+  opacity: 60%;
+}
+
+.socialmedia:hover {
+	opacity: 0.5;
 }
