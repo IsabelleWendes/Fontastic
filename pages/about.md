@@ -22,7 +22,7 @@ Within my logo and banner image, I decided to emulate the style and iconography 
 
 ##### **[Fun fact:](https://www.skyword.com/contentstandard/branding-brief-history/)**
 
-> The term \[branding] derives from the Old Norse word brandr or "to burn", and refers to the practice of branding livestock, which dates back more than 4,000 years.
+> [The term \[branding] derives from the Old Norse word brandr or "to burn", and refers to the practice of branding livestock, which dates back more than 4,000 years.](https://www.skyword.com/contentstandard/branding-brief-history/)
 
 Back in the day, a brand was a symbol of ownership but in today's world, a brand represents a person or organisation's values and reputation. 
 
