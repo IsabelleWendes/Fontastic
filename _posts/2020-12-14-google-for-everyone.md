@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Google. For everyone. "
-date: 2020-12-14T16:12:23.208Z
+date: 2020-11-23T16:12:23.208Z
 header_feature_image: ../uploads/feature-imaage.jpeg
 comments: true
 ---
