@@ -1,8 +1,8 @@
 ---
 layout: post
-title: IBM logo on light background
+title: "Vogue. The Little black dress of logos. "
 date: 2020-11-16T16:08:27.466Z
-header_feature_image: ../uploads/women-holding-vogue.jpg
+header_feature_image: ../uploads/women-holding-vogue-cropped.jpg
 comments: true
 tags: null
 ---
