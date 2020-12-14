@@ -5,8 +5,6 @@ date: 2020-11-23T16:12:23.208Z
 header_feature_image: ../uploads/feature-imaage.jpeg
 comments: true
 ---
-Google. Does it really need any introduction?
-
 Google is an American multinational technology company that provides a wide variety of products and services including both software and hardware. Its most important specialism is its search engine service. Don’t believe me … Google it! It owns 90% of the search market and has 4 billion users worldwide.
 
 As a brand, it values user-focused design such as a clear and simple homepage interface (very different to the over-cluttered interfaces of its competitors). It also aims to provide fast and seamless services.
